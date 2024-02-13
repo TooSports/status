@@ -4,35 +4,39 @@
     "url": "toosports.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 706,
-    "timeWeek": 606,
-    "timeMonth": 556,
-    "timeYear": 556,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 576,
+    "timeWeek": 586,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   },
   {
     "name": "Prod (www)",
     "url": "www.toosports.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 423,
-    "timeWeek": 392,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "time": 355,
+    "timeDay": 311,
+    "timeWeek": 368,
+    "timeMonth": 355,
+    "timeYear": 355,
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   }
 ]
