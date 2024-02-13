@@ -4,19 +4,19 @@
     "url": "toosports.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 576,
-    "timeWeek": 586,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 549,
+    "timeDay": 556,
+    "timeWeek": 578,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2024-02-13": 0
+      "2024-02-13": 70
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "www.toosports.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 311,
-    "timeWeek": 368,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 905,
+    "timeDay": 4172,
+    "timeWeek": 1649,
+    "timeMonth": 905,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2024-02-13": 0
+      "2024-02-13": 70
     }
   }
 ]
